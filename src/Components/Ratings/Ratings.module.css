@@ -1,0 +1,14 @@
+.ratingItem {
+  text-align: center;
+}
+
+.ratingItem p {
+  margin: 0px;
+  padding: 0 52px;
+}
+
+.ratingItem p:first-child {
+  font-size: 30px;
+  color: #ffffff;
+  font-weight: bold;
+}

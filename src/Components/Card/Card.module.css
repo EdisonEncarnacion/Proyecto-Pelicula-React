@@ -1,0 +1,19 @@
+.cardContainer {
+  width: 300px;
+  padding: 20px;
+  background-color: #c0f3f3;
+  margin: 20px;
+  height: fit-content;
+  font-family: monospace;
+  min-height: 505px;
+  cursor: pointer;
+}
+
+.cardContainer img {
+  width: 100%;
+}
+
+.description {
+  display: flex;
+  justify-content: space-between;
+}

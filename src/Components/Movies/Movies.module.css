@@ -1,0 +1,19 @@
+.moviesContainer {
+  display: flex;
+  margin: 30px 80px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.ratingsContainer {
+  height: 100px;
+  display: flex;
+  align-items: baseline;
+  font-family: monospace;
+  background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(16,186,186,0.34217436974789917) 0%, rgba(0,212,255,1) 49%, rgba(255,255,255,1) 100%);
+  width: fit-content;
+  min-width: 793px;
+  padding-left: 30px;
+  align-items: center;
+}
